@@ -5,15 +5,12 @@ Our primary focus was on creating custom-built sculptures where the lighting dyn
 
 Working with my production studio LadyBrain Studios, we worked with various mediums such as circuit design, custom programmed sound processing, CNC routed circuit housing, molded and cast crystal clear resin designs. Thanks to Haley Moore, the co-founder of LadyBrain Studios and to programmers Oguz Yetkin, Adam Love, and Ed Krohne.  
 
-![12401838_10153850311639187_4860171769799257478_o-300x300 jpg](https://github.com/Drc3p0/Waynebrainlightcode/assets/5934416/6997bda2-89b9-49b8-b92b-fbc2980cea80)
+<p align="center">
+  
+ ![12401838_10153850311639187_4860171769799257478_o-300x300 jpg](https://github.com/Drc3p0/Waynebrainlightcode/assets/5934416/6997bda2-89b9-49b8-b92b-fbc2980cea80)    ![11780023_10153550154634187_4116819136088858537_o-300x300 jpg](https://github.com/Drc3p0/Waynebrainlightcode/assets/5934416/91976311-9162-49e6-8dfb-c97227b9c10a)   ![17100049346_fefb94bfc9_k-202x300](https://github.com/Drc3p0/Waynebrainlightcode/assets/5934416/74a1608f-589e-475f-8643-69dfcef6fc56)
 
+</p>
 
-Flaming Lips skull Prototype V1 and V2
-![11780023_10153550154634187_4116819136088858537_o-300x300 jpg](https://github.com/Drc3p0/Waynebrainlightcode/assets/5934416/91976311-9162-49e6-8dfb-c97227b9c10a)
-
-
-Darcy Neal and Haley Moore of LadyBrain Studios
-![CV - Wayne Brain](https://github.com/Drc3p0/Waynebrainlightcode/assets/5934416/d4e878a3-ae29-468b-9c15-53cff2b00548)
 
 
 
